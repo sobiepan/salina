@@ -1,0 +1,331 @@
+1462966791s:17962:"a:6:{s:5:"mtime";i:1458051319;s:7:"content";s:8903:"<div class="container">
+    <div class="row">
+        <div class="col-xs-hidden col-sm-hidden col-md-3 wow fadeInDown">
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 wow fadeInDown">
+
+            <div class="media">
+                <div class="parrent pull-left">
+                    <ul class="nav nav-tabs nav-pills">
+                        <li class="active"><a href="#tab1" data-toggle="tab" class="analistic-01">Salino Basic ABC</a>
+                        </li>
+                        <li class=""><a href="#tab2" data-toggle="tab" class="analistic-02">Salino Family ABC</a>
+                        </li>
+                        <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">Salino Mixt ABC</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xs-hidden col-sm-hidden col-md-3 wow fadeInDown">
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 wow fadeInDown">
+            <div class="parrent media-body">
+                <div class="tab-content active">
+                    <div class="tab-pane fade active in" id="tab1">
+                        <div class="pricing-area text-center">
+                            <div class="row">
+                                <div class="col-sm-4 plan price-one wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-one">
+                                            <h1>Sesiune</h1>
+                                            <span>1 sedinta</span>
+                                        </li>
+                                        <li>Adulti – 20 RON</li>
+                                        <li>Pensionari/Studenti/Elevi – 17 RON</li>
+                                        <li>Copii pana in 7 ani – 12 RON</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4 plan price-two wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-two">
+                                            <h1>Pachet</h1>
+                                            <span>10 sedinte</span>
+                                        </li>
+                                        <li>Adulti – 180 RON</li>
+                                        <li>Pensionari/Studenti/Elevi – 150 RON</li>
+                                        <li>Copii pana in 7 ani – 100 RON</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-4 plan price-three wow fadeInDown">
+
+                                    <ul>
+                                        <li class="heading-three">
+                                            <h1>Pachet</h1>
+                                            <span>20 sedinte</span>
+                                        </li>
+                                        <li>Adulti – 320 RON</li>
+                                        <li>Pensionari/Studenti/Elevi – 260 RON</li>
+                                        <li>Copii pana in 7 ani – 160 RON</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="tab2">
+                        <div class="pricing-area text-center">
+                            <div class="row">
+                                <div class="col-sm-4 plan price-one wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-one">
+                                            <h1>Sesiune</h1>
+                                            <span>1 sedinta</span>
+                                        </li>
+                                        <li>Adult + copil – 30 RON</li>
+                                        <li>Pentru fiecare adult in plus – 18 RON</li>
+                                        <li>Pentru fiecare copil in plus – 10 RON</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4 plan price-two wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-two">
+                                            <h1>Pachet</h1>
+                                            <span>10 sedinte</span>
+                                        </li>
+                                        <li>Adulti + copil – 250 RON</li>
+                                        <li>Pentru fiecare adult in plus – 160 RON</li>
+                                        <li>Pentru fiecare copil in plus – 90 RON</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-4 plan price-three wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-three">
+                                            <h1>Pachet</h1>
+                                            <span>20 sedinte</span>
+                                        </li>
+                                        <li>Adult + copil – 430 RON</li>
+                                        <li>Pentru fiecare adult in plus – 300 RON</li>
+                                        <li>Pentru fiecare copil in plus – 140 RON</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                        
+
+
+                    <div class="tab-pane fade" id="tab3">
+                        <div class="pricing-area text-center">
+                            <div class="row">
+                                <div class="col-sm-4 plan price-one wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-one">
+                                            <h1>Sesiune</h1>
+                                            <span>1 sedinta</span>
+                                        </li>
+                                        <li>Pensionar/student + copil – 26 RON</li>
+                                        <li>Pentru fiecare pensionar/student in plus – 16 RON</li>
+                                        <li>Pentru fiecare copil in plus – 10 RON</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4 plan price-two wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-two">
+                                            <h1>Pachet</h1>
+                                            <span>10 sedinte</span>
+                                        </li>
+                                        <li>Pensionar/student + copil – 220 RON</li>
+                                        <li>Pentru fiecare pensionar/student in plus – 130 RON</li>
+                                        <li>Pentru fiecare copil in plus – 90 RON</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-4 plan price-three wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-three">
+                                            <h1>Pachet</h1>
+                                            <span>20 sedinte</span>
+                                        </li>
+                                        <li>Adult + copil – 400 RON</li>
+                                        <li>Pentru fiecare adult in plus – 240 RON</li>
+                                        <li>Pentru fiecare copil in plus – 140 RON</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/.tab-content-->
+            </div>
+            <!--/.media-body-->
+        </div>
+        <em>* Durata unei sedinte este de 45 minute. Fiecare sedinta incepe la fix!<br>
+* Ptr abonamente personalizate va rugam contactati personalul receptiei<br>
+* Reducerile se acorda in urma prezentarii unor documente valabile.<br>
+* La aducerea unui prieten se beneficiaza de o sedinta gratuita.<br>
+</em>
+    </div>
+</div>";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:8903:"<div class="container">
+    <div class="row">
+        <div class="col-xs-hidden col-sm-hidden col-md-3 wow fadeInDown">
+
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-6 wow fadeInDown">
+
+            <div class="media">
+                <div class="parrent pull-left">
+                    <ul class="nav nav-tabs nav-pills">
+                        <li class="active"><a href="#tab1" data-toggle="tab" class="analistic-01">Salino Basic ABC</a>
+                        </li>
+                        <li class=""><a href="#tab2" data-toggle="tab" class="analistic-02">Salino Family ABC</a>
+                        </li>
+                        <li class=""><a href="#tab3" data-toggle="tab" class="tehnical">Salino Mixt ABC</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xs-hidden col-sm-hidden col-md-3 wow fadeInDown">
+
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-12 wow fadeInDown">
+            <div class="parrent media-body">
+                <div class="tab-content active">
+                    <div class="tab-pane fade active in" id="tab1">
+                        <div class="pricing-area text-center">
+                            <div class="row">
+                                <div class="col-sm-4 plan price-one wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-one">
+                                            <h1>Sesiune</h1>
+                                            <span>1 sedinta</span>
+                                        </li>
+                                        <li>Adulti – 20 RON</li>
+                                        <li>Pensionari/Studenti/Elevi – 17 RON</li>
+                                        <li>Copii pana in 7 ani – 12 RON</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4 plan price-two wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-two">
+                                            <h1>Pachet</h1>
+                                            <span>10 sedinte</span>
+                                        </li>
+                                        <li>Adulti – 180 RON</li>
+                                        <li>Pensionari/Studenti/Elevi – 150 RON</li>
+                                        <li>Copii pana in 7 ani – 100 RON</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-4 plan price-three wow fadeInDown">
+
+                                    <ul>
+                                        <li class="heading-three">
+                                            <h1>Pachet</h1>
+                                            <span>20 sedinte</span>
+                                        </li>
+                                        <li>Adulti – 320 RON</li>
+                                        <li>Pensionari/Studenti/Elevi – 260 RON</li>
+                                        <li>Copii pana in 7 ani – 160 RON</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="tab-pane fade" id="tab2">
+                        <div class="pricing-area text-center">
+                            <div class="row">
+                                <div class="col-sm-4 plan price-one wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-one">
+                                            <h1>Sesiune</h1>
+                                            <span>1 sedinta</span>
+                                        </li>
+                                        <li>Adult + copil – 30 RON</li>
+                                        <li>Pentru fiecare adult in plus – 18 RON</li>
+                                        <li>Pentru fiecare copil in plus – 10 RON</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4 plan price-two wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-two">
+                                            <h1>Pachet</h1>
+                                            <span>10 sedinte</span>
+                                        </li>
+                                        <li>Adulti + copil – 250 RON</li>
+                                        <li>Pentru fiecare adult in plus – 160 RON</li>
+                                        <li>Pentru fiecare copil in plus – 90 RON</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-4 plan price-three wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-three">
+                                            <h1>Pachet</h1>
+                                            <span>20 sedinte</span>
+                                        </li>
+                                        <li>Adult + copil – 430 RON</li>
+                                        <li>Pentru fiecare adult in plus – 300 RON</li>
+                                        <li>Pentru fiecare copil in plus – 140 RON</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                        
+
+
+                    <div class="tab-pane fade" id="tab3">
+                        <div class="pricing-area text-center">
+                            <div class="row">
+                                <div class="col-sm-4 plan price-one wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-one">
+                                            <h1>Sesiune</h1>
+                                            <span>1 sedinta</span>
+                                        </li>
+                                        <li>Pensionar/student + copil – 26 RON</li>
+                                        <li>Pentru fiecare pensionar/student in plus – 16 RON</li>
+                                        <li>Pentru fiecare copil in plus – 10 RON</li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4 plan price-two wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-two">
+                                            <h1>Pachet</h1>
+                                            <span>10 sedinte</span>
+                                        </li>
+                                        <li>Pensionar/student + copil – 220 RON</li>
+                                        <li>Pentru fiecare pensionar/student in plus – 130 RON</li>
+                                        <li>Pentru fiecare copil in plus – 90 RON</li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-sm-4 plan price-three wow fadeInDown">
+                                    <ul>
+                                        <li class="heading-three">
+                                            <h1>Pachet</h1>
+                                            <span>20 sedinte</span>
+                                        </li>
+                                        <li>Adult + copil – 400 RON</li>
+                                        <li>Pentru fiecare adult in plus – 240 RON</li>
+                                        <li>Pentru fiecare copil in plus – 140 RON</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--/.tab-content-->
+            </div>
+            <!--/.media-body-->
+        </div>
+        <em>* Durata unei sedinte este de 45 minute. Fiecare sedinta incepe la fix!<br>
+* Ptr abonamente personalizate va rugam contactati personalul receptiei<br>
+* Reducerile se acorda in urma prezentarii unor documente valabile.<br>
+* La aducerea unui prieten se beneficiaza de o sedinta gratuita.<br>
+</em>
+    </div>
+</div>";}";

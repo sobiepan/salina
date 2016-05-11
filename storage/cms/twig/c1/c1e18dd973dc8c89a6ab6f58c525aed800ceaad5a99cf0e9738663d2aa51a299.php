@@ -1,0 +1,362 @@
+<?php
+
+/* /home/salinabyabc/public_html/themes/jtherczeg-corlate/pages/samples/faq.htm */
+class __TwigTemplate_1af41ad1f4b7fe96c417b1d8aa0d2adc425c4c964e4d679e354397d62f2ccf9b extends Twig_Template
+{
+    public function __construct(Twig_Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = array(
+        );
+    }
+
+    protected function doDisplay(array $context, array $blocks = array())
+    {
+        // line 1
+        echo "<section id=\"feature\" class=\"transparent-bg\" style=\"margin-top: 5%;margin-bottom: 7%\">
+        <div class=\"container\">
+           <div class=\"center wow fadeInDown\">
+                <h2>Intrebari frecvente</h2>
+            </div>
+            
+            <div class=\"col-md-12 col-sm-5\">
+                    <div class=\"accordion\">
+                        <div class=\"panel-group\" id=\"accordion1\">
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading active\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseOne1\">
+                                  Cat dureaza o sedinta de salinoterapie?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+
+                            <div id=\"collapseOne1\" class=\"panel-collapse collapse in\">
+                              <div class=\"panel-body\">
+                                  <div class=\"media accordion-inner\">
+                                        <div class=\"media-body\">
+                                            In Salina by Acvatic Bebe Club o sedinta de salinoterapie dureaza 45 minute. Fiecare sedinta incepe la ora fixa.
+                                        </div>
+                                  </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseTwo1\">
+                                  Care este perioada recomandata pentru a se urma un tratament?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseTwo1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                In functie de afectiune, durata tratamentului poate varia.
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseThree1\">
+                                  Exista efecte adverse ale salinoterapiei?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseThree1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                Salinoterapia este 100% naturala si nu are efecte negative asociate. Unii pacienti pot sesiza iritatii usoare ale pielii, dar care vor disparea dupa cateva sedinte.                              </div>
+                            </div>
+                          </div>
+                            
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseFour1\">
+                                  Am nevoie de programare pentru o sedinta de salinoterapie?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseFour1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                Da, pentru a va putea bucura de beneficiile salinoterapiei in cele mai bune conditii, este necesar sa sunati in prealabil la 0733809377.
+                              </div>
+                            </div>
+                          </div>
+                            
+                                                      <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseFive1\">
+                                  Exista contraindicatii pentru salinoterapie?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseFive1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                Da, salinoterapia are si cateva contraindicatii, dintre care amintim:
+insuficienta respiratorie, cancer pulmonar, tuberculoza pulmonara, micoze pulmonare, cardiopatie ischemica, hipertensiune arteriala, insuficienta cardiaca, infarct miocardic, cord pulmonar cronic decompensat, angina pectorala, tuse cu sange, hemoragii, boli neoplazice, epilepsie, alte afectiuni ce pot determina pierderea constientei, claustrofobie, hipertiroidie, boala Basedow, sarcina.
+Inainte de a urma o cura de salinoterapie, orice boala contagioasa trebuie tratata.
+                              </div>
+                            </div>
+                          </div>
+                            
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseSix1\">
+                                  Cate persoane intra in acelasi timp in salina?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseSix1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                In timpul unei sedinte de salinoterapie pot participa 10 persoane adulte sau 6 adulti si copii.
+                              </div>
+                            </div>
+                          </div>
+                            
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseSeven1\">
+                                  Ce activitati pot desfasura copii in timpul sedintelor de salinoterapie?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseSeven1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                Am amenajat un spatiu special pentru copii, in care acestia pot colora, se pot juca sau uita pe cartile cu povesti sau diversele atlase interesante disponibile la receptie. Va rugam nu lasati copii nesupravegheati!
+                              </div>
+                            </div>
+                          </div>
+                            
+                                                      <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseEight1\">
+                                  Am voie sa aduc alimente sau apa la sedintele de salinoterapie?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseEight1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                Este interzis accesul cu alimente sau apa in interiorul salinei.
+                              </div>
+                            </div>
+                          </div>
+                            
+                          <div class=\"panel panel-default\">
+                            <div class=\"panel-heading\">
+                              <h3 class=\"panel-title\">
+                                <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#collapseNine1\">
+                                  Cum ajuta salinoterapia la cresterea imunitatii organismului?
+                                  <i class=\"fa fa-angle-right pull-right\"></i>
+                                </a>
+                              </h3>
+                            </div>
+                            <div id=\"collapseNine1\" class=\"panel-collapse collapse\">
+                              <div class=\"panel-body\">
+                                Prin purificarea eficienta a cailor respiratorii prin cure regulate de salinoterapie este intarita si imunitatea organismului. Bacteriile, impuritatile, toxinele, alergenii nu doar declanseaza, ci si intretin boli ale aparatului respirator, care adesea recidiveaza, cronicizandu-se; in aceste conditii, imunitatea organismului va scadea treptat. Curele de salinoterapie sprijina organismul in lupta sa impotriva factorilor nocivi din mediu, de care nu ne putem feri complet, oricat am incerca.
+                              </div>
+                            </div>
+                          </div>
+                            
+                        
+                    </div>
+                </div>
+
+
+        </div><!--/.container-->
+    </section><!--/#feature-->";
+    }
+
+    public function getTemplateName()
+    {
+        return "/home/salinabyabc/public_html/themes/jtherczeg-corlate/pages/samples/faq.htm";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  19 => 1,);
+    }
+}
+/* <section id="feature" class="transparent-bg" style="margin-top: 5%;margin-bottom: 7%">*/
+/*         <div class="container">*/
+/*            <div class="center wow fadeInDown">*/
+/*                 <h2>Intrebari frecvente</h2>*/
+/*             </div>*/
+/*             */
+/*             <div class="col-md-12 col-sm-5">*/
+/*                     <div class="accordion">*/
+/*                         <div class="panel-group" id="accordion1">*/
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading active">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">*/
+/*                                   Cat dureaza o sedinta de salinoterapie?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/* */
+/*                             <div id="collapseOne1" class="panel-collapse collapse in">*/
+/*                               <div class="panel-body">*/
+/*                                   <div class="media accordion-inner">*/
+/*                                         <div class="media-body">*/
+/*                                             In Salina by Acvatic Bebe Club o sedinta de salinoterapie dureaza 45 minute. Fiecare sedinta incepe la ora fixa.*/
+/*                                         </div>*/
+/*                                   </div>*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/* */
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1">*/
+/*                                   Care este perioada recomandata pentru a se urma un tratament?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseTwo1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 In functie de afectiune, durata tratamentului poate varia.*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/* */
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseThree1">*/
+/*                                   Exista efecte adverse ale salinoterapiei?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseThree1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 Salinoterapia este 100% naturala si nu are efecte negative asociate. Unii pacienti pot sesiza iritatii usoare ale pielii, dar care vor disparea dupa cateva sedinte.                              </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFour1">*/
+/*                                   Am nevoie de programare pentru o sedinta de salinoterapie?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseFour1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 Da, pentru a va putea bucura de beneficiile salinoterapiei in cele mai bune conditii, este necesar sa sunati in prealabil la 0733809377.*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                                                       <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFive1">*/
+/*                                   Exista contraindicatii pentru salinoterapie?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseFive1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 Da, salinoterapia are si cateva contraindicatii, dintre care amintim:*/
+/* insuficienta respiratorie, cancer pulmonar, tuberculoza pulmonara, micoze pulmonare, cardiopatie ischemica, hipertensiune arteriala, insuficienta cardiaca, infarct miocardic, cord pulmonar cronic decompensat, angina pectorala, tuse cu sange, hemoragii, boli neoplazice, epilepsie, alte afectiuni ce pot determina pierderea constientei, claustrofobie, hipertiroidie, boala Basedow, sarcina.*/
+/* Inainte de a urma o cura de salinoterapie, orice boala contagioasa trebuie tratata.*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseSix1">*/
+/*                                   Cate persoane intra in acelasi timp in salina?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseSix1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 In timpul unei sedinte de salinoterapie pot participa 10 persoane adulte sau 6 adulti si copii.*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseSeven1">*/
+/*                                   Ce activitati pot desfasura copii in timpul sedintelor de salinoterapie?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseSeven1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 Am amenajat un spatiu special pentru copii, in care acestia pot colora, se pot juca sau uita pe cartile cu povesti sau diversele atlase interesante disponibile la receptie. Va rugam nu lasati copii nesupravegheati!*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                                                       <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseEight1">*/
+/*                                   Am voie sa aduc alimente sau apa la sedintele de salinoterapie?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseEight1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 Este interzis accesul cu alimente sau apa in interiorul salinei.*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                           <div class="panel panel-default">*/
+/*                             <div class="panel-heading">*/
+/*                               <h3 class="panel-title">*/
+/*                                 <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseNine1">*/
+/*                                   Cum ajuta salinoterapia la cresterea imunitatii organismului?*/
+/*                                   <i class="fa fa-angle-right pull-right"></i>*/
+/*                                 </a>*/
+/*                               </h3>*/
+/*                             </div>*/
+/*                             <div id="collapseNine1" class="panel-collapse collapse">*/
+/*                               <div class="panel-body">*/
+/*                                 Prin purificarea eficienta a cailor respiratorii prin cure regulate de salinoterapie este intarita si imunitatea organismului. Bacteriile, impuritatile, toxinele, alergenii nu doar declanseaza, ci si intretin boli ale aparatului respirator, care adesea recidiveaza, cronicizandu-se; in aceste conditii, imunitatea organismului va scadea treptat. Curele de salinoterapie sprijina organismul in lupta sa impotriva factorilor nocivi din mediu, de care nu ne putem feri complet, oricat am incerca.*/
+/*                               </div>*/
+/*                             </div>*/
+/*                           </div>*/
+/*                             */
+/*                         */
+/*                     </div>*/
+/*                 </div>*/
+/* */
+/* */
+/*         </div><!--/.container-->*/
+/*     </section><!--/#feature-->*/

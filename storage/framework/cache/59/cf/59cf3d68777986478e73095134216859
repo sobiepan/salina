@@ -1,0 +1,172 @@
+1462973136s:12721:"a:6:{s:5:"mtime";i:1456477506;s:7:"content";s:6266:"title = "Salinoterapia pentru copii"
+url = "/salinoterapia-copii"
+layout = "default"
+is_hidden = 0
+==
+<section id="feature" class="transparent-bg" style="padding-top: 100px">
+        <div class="container">
+           <div class="center wow fadeInDown">
+                <h2>Salinoterapie pentru copii</h2>
+                <p class="wall-of-text">Salinoterapia reprezinta cea mai buna alternativa pentru tratarea problemelor respiratorii ale copiilor. Tratamentul este 100% natural si consta in inhalarea aerosolilor salini intr-un mediu special amenajat, in care copii se vor simti confortabil. Sedintele de salinoterapie vor ajuta la curatarea cailor respiratorii, obtinandu-se astfel imbunatatiri semnificative la nivelul respiratiei, calitatii somnului, precum si a starii generale.<br><br>
+
+Aerosolii se definesc ca fiind micro-particule, aflate in suspesie intr-un mediu gazos, respectiv atmosfera. Acesti aerosoli pot fi micro-particule solide, lichide sau gazoase care pot ramane in atmosfera intervale de timp cuprinse de la cateva ore pana la durate de ordinul zilelor, saptamanilor sau chiar anilor.  Durata de plutire este conditionata de umiditate, temperatura, miscarea aerului, variatiile de presiune etc. Aceste micro-particule ,,plutesc” datorita ciocnirii repetate cu moleculele de aer, moleculele de apa din atmosfera, anumitor interactiuni electro-chimice.<br><br>
+
+In cadrul salinei noastre am folosit sare de Himalaya si sarea adusa din mina de la Praid pentru a crea un mediu hipo-bacterial si fara alergeni, atent controlat din punct de vedere termic, al umiditatii si al ventilatiei.<br><br>
+
+Accesul in salina se face de catre adulti in botosi pusi la dispozitie de catre receptie si de catre copii cu incaltaminte de interior (ex: adidas, crocs, etc.)</p>
+            </div>
+
+            <div class="row">
+                <div class="center wow fadeInDown">
+                        <h4>Printre principalele beneficii sunt:</h4></div>
+                <div class="features">                   
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/astm_roz.png'|theme }}">
+                            <h2>Tratament pentru astm</h2>                         
+                        
+                        <h3>Una dintre cele mai raspandite afectiuni printre copii. Salinoterapia usureaza respiratia si ajuta la eliberarea cailor respiratorii</h3>
+                   </div>
+                        </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/bronsita_roz.png'|theme }}">
+                            <h2>Tratament pentru afectiunile respiratorii</h2>
+                            <h3>Sistemul  respirator al copiilor este inca in crestere pana la varsta de 9 ani, astfel sunt mai predispusi la afectiuni ale acestuia</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/raceala_roz.png'|theme }}">
+                            <h2>Tratament pentru raceli si gripe</h2>
+                            <h3>Copiii iubesc timpul petrecut in aer liber si de aceea racesc foarte des. Salinoterapia constituie un tratament eficient pentru raceli, dar si pentru prevenirea acestora</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div>    
+            </div><!--/.col-md-4-->  
+                            <div class="features">                   
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/alergii_roz.png'|theme }}">
+                            <h2>Prevenirea si tratarea alegiilor sezoniere</h2>                         
+                        
+                        <h3>Exista perioade in care micutii se confrunta cu alergiile, in special primavara si toamna</h3>
+                   </div>
+                        </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/imunitate_roz.png'|theme }}">
+                            <h2>Intarirea sistemului imunitar</h2>
+                            <h3>copii contacteaza mai usor decat adultii virusuri si bacterii. Salinoterapia este un tratament natural de intarire a sistemului imunitar si reducerea riscului de imbolnavire</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/ureche_roz.png'|theme }}">
+                            <h2>Tratament pentru infectii auriculare</h2>
+                            <h3>Salinoterapia este utilizata ca tratament alternativ pentru infectii ale urechilor</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div>  
+
+    </section><!--/#feature-->
+    
+        <section id="gallery-adulti" class="gallery-adulti" style="padding: 50px">
+	{% partial "gallery-copii" %}
+</section>
+    
+<section id="services" class="service-item" style="padding: 50px;border-top: solid 5px #168CCB;border-bottom: solid 5px #168CCB;">
+	{% partial "sendmachine" %}
+</section>
+    
+        <section class="pricing-area shortcode-item">
+        
+            {%partial "preturi"%}
+    </section>";s:7:"viewBag";a:0:{}s:8:"settings";a:5:{s:5:"title";s:26:"Salinoterapia pentru copii";s:3:"url";s:20:"/salinoterapia-copii";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:6164:"<section id="feature" class="transparent-bg" style="padding-top: 100px">
+        <div class="container">
+           <div class="center wow fadeInDown">
+                <h2>Salinoterapie pentru copii</h2>
+                <p class="wall-of-text">Salinoterapia reprezinta cea mai buna alternativa pentru tratarea problemelor respiratorii ale copiilor. Tratamentul este 100% natural si consta in inhalarea aerosolilor salini intr-un mediu special amenajat, in care copii se vor simti confortabil. Sedintele de salinoterapie vor ajuta la curatarea cailor respiratorii, obtinandu-se astfel imbunatatiri semnificative la nivelul respiratiei, calitatii somnului, precum si a starii generale.<br><br>
+
+Aerosolii se definesc ca fiind micro-particule, aflate in suspesie intr-un mediu gazos, respectiv atmosfera. Acesti aerosoli pot fi micro-particule solide, lichide sau gazoase care pot ramane in atmosfera intervale de timp cuprinse de la cateva ore pana la durate de ordinul zilelor, saptamanilor sau chiar anilor.  Durata de plutire este conditionata de umiditate, temperatura, miscarea aerului, variatiile de presiune etc. Aceste micro-particule ,,plutesc” datorita ciocnirii repetate cu moleculele de aer, moleculele de apa din atmosfera, anumitor interactiuni electro-chimice.<br><br>
+
+In cadrul salinei noastre am folosit sare de Himalaya si sarea adusa din mina de la Praid pentru a crea un mediu hipo-bacterial si fara alergeni, atent controlat din punct de vedere termic, al umiditatii si al ventilatiei.<br><br>
+
+Accesul in salina se face de catre adulti in botosi pusi la dispozitie de catre receptie si de catre copii cu incaltaminte de interior (ex: adidas, crocs, etc.)</p>
+            </div>
+
+            <div class="row">
+                <div class="center wow fadeInDown">
+                        <h4>Printre principalele beneficii sunt:</h4></div>
+                <div class="features">                   
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/astm_roz.png'|theme }}">
+                            <h2>Tratament pentru astm</h2>                         
+                        
+                        <h3>Una dintre cele mai raspandite afectiuni printre copii. Salinoterapia usureaza respiratia si ajuta la eliberarea cailor respiratorii</h3>
+                   </div>
+                        </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/bronsita_roz.png'|theme }}">
+                            <h2>Tratament pentru afectiunile respiratorii</h2>
+                            <h3>Sistemul  respirator al copiilor este inca in crestere pana la varsta de 9 ani, astfel sunt mai predispusi la afectiuni ale acestuia</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/raceala_roz.png'|theme }}">
+                            <h2>Tratament pentru raceli si gripe</h2>
+                            <h3>Copiii iubesc timpul petrecut in aer liber si de aceea racesc foarte des. Salinoterapia constituie un tratament eficient pentru raceli, dar si pentru prevenirea acestora</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div>    
+            </div><!--/.col-md-4-->  
+                            <div class="features">                   
+                    <div class="col-md-3 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/alergii_roz.png'|theme }}">
+                            <h2>Prevenirea si tratarea alegiilor sezoniere</h2>                         
+                        
+                        <h3>Exista perioade in care micutii se confrunta cu alergiile, in special primavara si toamna</h3>
+                   </div>
+                        </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/imunitate_roz.png'|theme }}">
+                            <h2>Intarirea sistemului imunitar</h2>
+                            <h3>copii contacteaza mai usor decat adultii virusuri si bacterii. Salinoterapia este un tratament natural de intarire a sistemului imunitar si reducerea riscului de imbolnavire</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+
+                    <div class="col-md-4 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+                        <div class="feature-wrap">
+                            <img  src="{{ 'assets/images/benefits/ureche_roz.png'|theme }}">
+                            <h2>Tratament pentru infectii auriculare</h2>
+                            <h3>Salinoterapia este utilizata ca tratament alternativ pentru infectii ale urechilor</h3>
+                        </div>
+                    </div><!--/.col-md-4-->
+                </div>  
+
+    </section><!--/#feature-->
+    
+        <section id="gallery-adulti" class="gallery-adulti" style="padding: 50px">
+	{% partial "gallery-copii" %}
+</section>
+    
+<section id="services" class="service-item" style="padding: 50px;border-top: solid 5px #168CCB;border-bottom: solid 5px #168CCB;">
+	{% partial "sendmachine" %}
+</section>
+    
+        <section class="pricing-area shortcode-item">
+        
+            {%partial "preturi"%}
+    </section>";}";

@@ -1,0 +1,111 @@
+1462973136s:4468:"a:6:{s:5:"mtime";i:1458912382;s:7:"content";s:2156:"{# Note: Only one levels of sublinks are supported by Bootstrap 3 #}
+{% set
+    links = {
+	    'home':      ['home', 'Acasa'],				
+                'pages': {
+            name: 'Servicii',
+            sublinks: {
+                'salinoterapia':['samples/salinoterapia', 'Salinoterapia'],
+                'adulti':	  ['samples/adulti', 'Salinoterapie adulti'],
+                'copii':	  ['samples/copii', 'Salinoterapie copii'],
+                'preturi':	  ['samples/preturi', 'Preturi'],
+            },
+        },
+        'portfolio': ['samples/galerie-media', 'Galerie Media'],
+        'contact': ['samples/contact', 'Contact'],
+    }
+%}
+
+{% macro render_menu(links) %}
+    {% for code, link in links %}
+        <li class="{{ code == currentPage ? 'active' }} {{ link.sublinks ? 'dropdown' }}" style="margin-left: 0px;">
+            <a
+                href="{{ link.sublinks ? '#' : (link.page ?: link[0])|page }}"
+                {% if link.sublinks %}data-toggle="dropdown"{% endif %}
+                class="{{ link.sublinks ? 'dropdown-toggle' }}"
+            >
+                {{ link.name ?: link[1] }}
+            {% if link.sublinks %}
+                <span class="dropdown-arrow"></span>
+                <ul class="dropdown-menu mega-menu">
+
+                    {{ _self.render_menu(link.sublinks) }}
+                </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+{% endmacro %}
+
+{% import _self as nav %}
+
+<nav class="navbar navbar-inverse" style="padding: 0px;" role="banner">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="{{ 'home'|page }}"><img src="{{ 'assets/images/logo.png'|theme }}" alt="logo"></a>
+		</div>
+		<div class="collapse navbar-collapse navbar-right">
+			<ul class="nav navbar-nav" style="padding: 0px;">
+				{{ nav.render_menu(links) }}
+			</ul>
+		</div>
+</nav><!--/nav-->";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:2156:"{# Note: Only one levels of sublinks are supported by Bootstrap 3 #}
+{% set
+    links = {
+	    'home':      ['home', 'Acasa'],				
+                'pages': {
+            name: 'Servicii',
+            sublinks: {
+                'salinoterapia':['samples/salinoterapia', 'Salinoterapia'],
+                'adulti':	  ['samples/adulti', 'Salinoterapie adulti'],
+                'copii':	  ['samples/copii', 'Salinoterapie copii'],
+                'preturi':	  ['samples/preturi', 'Preturi'],
+            },
+        },
+        'portfolio': ['samples/galerie-media', 'Galerie Media'],
+        'contact': ['samples/contact', 'Contact'],
+    }
+%}
+
+{% macro render_menu(links) %}
+    {% for code, link in links %}
+        <li class="{{ code == currentPage ? 'active' }} {{ link.sublinks ? 'dropdown' }}" style="margin-left: 0px;">
+            <a
+                href="{{ link.sublinks ? '#' : (link.page ?: link[0])|page }}"
+                {% if link.sublinks %}data-toggle="dropdown"{% endif %}
+                class="{{ link.sublinks ? 'dropdown-toggle' }}"
+            >
+                {{ link.name ?: link[1] }}
+            {% if link.sublinks %}
+                <span class="dropdown-arrow"></span>
+                <ul class="dropdown-menu mega-menu">
+
+                    {{ _self.render_menu(link.sublinks) }}
+                </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+{% endmacro %}
+
+{% import _self as nav %}
+
+<nav class="navbar navbar-inverse" style="padding: 0px;" role="banner">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="{{ 'home'|page }}"><img src="{{ 'assets/images/logo.png'|theme }}" alt="logo"></a>
+		</div>
+		<div class="collapse navbar-collapse navbar-right">
+			<ul class="nav navbar-nav" style="padding: 0px;">
+				{{ nav.render_menu(links) }}
+			</ul>
+		</div>
+</nav><!--/nav-->";}";

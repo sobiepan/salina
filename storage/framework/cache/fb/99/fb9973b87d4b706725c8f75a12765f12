@@ -1,0 +1,68 @@
+1462971170s:3229:"a:6:{s:5:"mtime";i:1455202706;s:7:"content";s:1541:"        <div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Mai multe detalii</h2>
+                <p class="wall-of-text" style="text-align: center">Pentru mai multe detalii selectati o categorie de mai jos</p>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6">
+                    <div class="recent-work-wrap selector">
+                        <a class="preview" href="salinoterapia-adulti" rel="">
+                            <img class="img-responsive" src="{{ 'assets/images/selector/adulti.jpg'|theme }}" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+
+                                </div> 
+                            </div>
+                        </a>
+                    </div>
+                </div>   
+
+                <div class="col-xs-12 col-sm-12 col-md-6">
+                    <div class="recent-work-wrap selector">
+                        <a class="preview" href="salinoterapia-copii" rel="">
+                            <img class="img-responsive" src="{{ 'assets/images/selector/copii.jpg'|theme }}" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+
+                                </div> 
+                            </div>
+                        </a>
+                    </div>
+                </div>   
+            </div><!--/.row-->
+        </div><!--/.container-->
+";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:1532:"<div class="container">
+            <div class="center wow fadeInDown">
+                <h2>Mai multe detalii</h2>
+                <p class="wall-of-text" style="text-align: center">Pentru mai multe detalii selectati o categorie de mai jos</p>
+            </div>
+
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-6">
+                    <div class="recent-work-wrap selector">
+                        <a class="preview" href="salinoterapia-adulti" rel="">
+                            <img class="img-responsive" src="{{ 'assets/images/selector/adulti.jpg'|theme }}" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+
+                                </div> 
+                            </div>
+                        </a>
+                    </div>
+                </div>   
+
+                <div class="col-xs-12 col-sm-12 col-md-6">
+                    <div class="recent-work-wrap selector">
+                        <a class="preview" href="salinoterapia-copii" rel="">
+                            <img class="img-responsive" src="{{ 'assets/images/selector/copii.jpg'|theme }}" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+
+                                </div> 
+                            </div>
+                        </a>
+                    </div>
+                </div>   
+            </div><!--/.row-->
+        </div><!--/.container-->";}";

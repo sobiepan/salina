@@ -1,0 +1,8 @@
+1462626866s:238:"a:2:{s:5:"mtime";i:1456500584;s:7:"content";s:184:"{% if errorHappened %}
+    {% partial __SELF__~'::flash-messages' %}
+{% else %}
+    <h2>Mesajul a fost trimis cu succes!</h2>
+    <p>
+        {{confirmation_text}}
+    </p>
+{% endif %}";}";

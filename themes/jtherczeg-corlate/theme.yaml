@@ -1,0 +1,11 @@
+name: 'Salina by ABC'
+description: 'Salina by ABC este salina din centrul orasului! Construita cu sare de la mina Praid si Sare de Himalaya, Salina by ABC este locul ideal pentru a te bucura de beneficiile salinoterapiei intr-un mediu relaxant.'
+author: 'Digital Advisors'
+code: 'Salina by ABC'
+authorUrl: 'http://shapebootstrap.net/'
+form:
+    fields:
+        site_name:
+            label: 'Salina by ABC'
+            comment: 'Salina by ABC'
+            default: 'Salina by ABC'

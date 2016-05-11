@@ -1,0 +1,397 @@
+1462973343s:13878:"a:6:{s:5:"mtime";i:1456392240;s:7:"content";s:6861:"<div class="carousel slide" data-ride="carousel">
+
+
+    <!--<ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <li data-target="#main-slider" data-slide-to="2"></li>
+                <li data-target="#main-slider" data-slide-to="3"></li>
+            </ol>-->
+    <div class="carousel-inner">
+
+        <div class="item active" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1"><br>Relaxeaza-te si respira</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+        <div class="item" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}" class="img-responsive">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1">Afla despre beneficiile Salinoterapiei</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+        <div class="item" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}" class="img-responsive">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1">Intareste-ti imunitatea in sezonul racelilor</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia-adulti">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+        <div class="item" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}" class="img-responsive">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1">Salinoterapia – terapia minune pentru copilul tau</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia-copii">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+    </div>
+    <!--/.carousel-inner-->
+</div>
+<!--/.carousel-->";s:7:"viewBag";a:0:{}s:8:"settings";a:1:{s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:6861:"<div class="carousel slide" data-ride="carousel">
+
+
+    <!--<ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <li data-target="#main-slider" data-slide-to="2"></li>
+                <li data-target="#main-slider" data-slide-to="3"></li>
+            </ol>-->
+    <div class="carousel-inner">
+
+        <div class="item active" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1"><br>Relaxeaza-te si respira</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+        <div class="item" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}" class="img-responsive">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1">Afla despre beneficiile Salinoterapiei</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+        <div class="item" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}" class="img-responsive">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1">Intareste-ti imunitatea in sezonul racelilor</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia-adulti">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+        <div class="item" style="background-image: url({{ 'assets/images/slider/salina.png'|theme }})">
+            <div class="container">
+
+                <div class="row slide-margin">
+                    <div class="col-sm-3 ">
+                        <div class="carousel-content">
+
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6 col-xs-12">
+                        <div class="slider-img">
+                            <img src="{{ 'assets/images/slider/logoMare.png'|theme }}" class="img-responsive">
+                        </div>
+                    </div>
+
+                    <div class="col-sm-3 ">
+                        <div class="slider-img">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="carousel-content">
+
+                    </div>
+                </div>
+
+                <div class="col-sm-6 col-xs-12 animation animated-item-2 text-center">
+                    <div class="carousel-content">
+                        <h1 class="animation animated-item-1">Salinoterapia – terapia minune pentru copilul tau</h1>
+                        <a class="btn-slide animation animated-item-3" href="salinoterapia-copii">Detalii</a>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="slider-img">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!--/.item-->
+        
+    </div>
+    <!--/.carousel-inner-->
+</div>
+<!--/.carousel-->";}";

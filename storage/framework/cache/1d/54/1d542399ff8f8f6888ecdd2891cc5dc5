@@ -1,0 +1,118 @@
+1462973136s:5794:"a:6:{s:5:"mtime";i:1453212756;s:7:"content";s:2810:"title = "Salinoterapia"
+url = "/salinoterapia"
+layout = "default"
+==
+    <section id="about-us">
+        <div class="container">
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<p class="wall-of-text">Salinoterapia este o metoda alternativa, dar si complementara de prevenire si tratament pentru diverse afectiuni respiratorii, avand in acelasi timp beneficii demonstrate asupra intregului organism: creste imunitatea, sustine detoxifierea organismului, imbunatateste functionarea aparatului digestiv, sustine regenerarea pielii, ajuta la reducerea efectelor oboselii si stresului.
+Terapia implica inhalarea de aerosoli salini (prin petrecerea unui timp in interiorul salinei) prin care se trateaza in special afectiunile respiratorii. Sarea este o substanta bactericida, care nu permite dezvoltarea culturilor microbiene, actionand ca un dezinfectant si in acelasi timp are capacitatea (in anumite conditii de temperatura si umiditate) de a emana aerosoli salini.</p>
+				</div>
+				
+<section id="feature">
+	{% partial "avantaje" %}
+</section>
+			<!-- Studii -->
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<h2>Studii</h2>
+					<p class="wall-of-text">In testarile clinice, salinoterapia s-a dovedit a fi eficienta in reducerea simptomelor pentru o varietate de boli respiratorii si ale pielii. In timpul unei testari clinice, Salinoterapia a demonstrat o imbunatatire in:</p>
+				</div>
+				
+				<div class="row">
+		
+					<div class="col-sm-4">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="joomla-skill">                                   
+								<p><em>85%</em></p>
+								<p>din cazurile de astm usor sau moderat</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-4">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>97%</em></p>
+								<p>din cazurile de bronsita<br>cronica, bronsiectazie si<br>fibroza chistica</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-4">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="css-skill">                                    
+								<p><em>75%</em></p>
+								<p>din cazurile de astm sever</p>
+							</div>
+						</div>
+					</div>
+                                    <p class="follow"><em>* “Jurnalul Aerosol Medicine, A.V. Chervinskaya, Volumul 8. Numarul 3, 1995”</em></p>
+				</div>
+	
+            </div><!--/.our-skill-->
+            <section id="recent-works">
+	{% partial "selector" %}
+</section>
+		</div><!--/.container-->
+    </section><!--/about-us-->
+";s:7:"viewBag";a:0:{}s:8:"settings";a:4:{s:5:"title";s:13:"Salinoterapia";s:3:"url";s:14:"/salinoterapia";s:6:"layout";s:7:"default";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:2736:"<section id="about-us">
+        <div class="container">
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<p class="wall-of-text">Salinoterapia este o metoda alternativa, dar si complementara de prevenire si tratament pentru diverse afectiuni respiratorii, avand in acelasi timp beneficii demonstrate asupra intregului organism: creste imunitatea, sustine detoxifierea organismului, imbunatateste functionarea aparatului digestiv, sustine regenerarea pielii, ajuta la reducerea efectelor oboselii si stresului.
+Terapia implica inhalarea de aerosoli salini (prin petrecerea unui timp in interiorul salinei) prin care se trateaza in special afectiunile respiratorii. Sarea este o substanta bactericida, care nu permite dezvoltarea culturilor microbiene, actionand ca un dezinfectant si in acelasi timp are capacitatea (in anumite conditii de temperatura si umiditate) de a emana aerosoli salini.</p>
+				</div>
+				
+<section id="feature">
+	{% partial "avantaje" %}
+</section>
+			<!-- Studii -->
+			<div class="skill-wrap clearfix">
+			
+				<div class="center wow fadeInDown">
+					<h2>Studii</h2>
+					<p class="wall-of-text">In testarile clinice, salinoterapia s-a dovedit a fi eficienta in reducerea simptomelor pentru o varietate de boli respiratorii si ale pielii. In timpul unei testari clinice, Salinoterapia a demonstrat o imbunatatire in:</p>
+				</div>
+				
+				<div class="row">
+		
+					<div class="col-sm-4">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+							<div class="joomla-skill">                                   
+								<p><em>85%</em></p>
+								<p>din cazurile de astm usor sau moderat</p>
+							</div>
+						</div>
+					</div>
+					
+					 <div class="col-sm-4">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+							<div class="html-skill">                                  
+								<p><em>97%</em></p>
+								<p>din cazurile de bronsita<br>cronica, bronsiectazie si<br>fibroza chistica</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-4">
+						<div class="sinlge-skill wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="900ms">
+							<div class="css-skill">                                    
+								<p><em>75%</em></p>
+								<p>din cazurile de astm sever</p>
+							</div>
+						</div>
+					</div>
+                                    <p class="follow"><em>* “Jurnalul Aerosol Medicine, A.V. Chervinskaya, Volumul 8. Numarul 3, 1995”</em></p>
+				</div>
+	
+            </div><!--/.our-skill-->
+            <section id="recent-works">
+	{% partial "selector" %}
+</section>
+		</div><!--/.container-->
+    </section><!--/about-us-->";}";

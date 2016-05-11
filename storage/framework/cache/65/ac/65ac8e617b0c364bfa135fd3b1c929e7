@@ -1,0 +1,43 @@
+1462973136s:3090:"a:6:{s:5:"mtime";i:1455192412;s:7:"content";s:1459:"title = "Salina by ABC"
+url = "/despre"
+layout = "default"
+==
+<section id="feature" class="transparent-bg" style="padding-top: 100px">
+        <div class="container">
+           <div class="center wow fadeInDown">
+                <h2> Salina din centrul orasului</h2>
+                <p class="wall-of-text"><br>Grija noastra fata de dezvoltarea armonioasa a copiilor este principalul obiectiv la Acvatic Bebe Club. Astfel, pentru ca ne dorim ca cei mici sa aiba un stil de viata sanatos, am considerat ca este necesar sa gasim pe langa educatia acvatica, alte metode care ajuta la mentinerea unui astfel de stil de viata.<br><br>
+
+                    Asa s-a nascut ideea Salina by ABC. Pentru ca salinoterapia este un tratament cu multiple beneficii, dar o salina naturala implica un drum lung si sesiuni de tratament multiple, am decis sa aducem salina in oras, la cateva minute de centru. Am folosit sarea de la mina Praid si sare de Himalaya si am alcatuit un spatiu perfect pentru relaxare, dar si un mediu placut si plin de jucarii pentru prichindei.<br><br>
+
+
+
+Va asteptam cu drag sa descoperiti proprietatile uimitoare ale salinoterapiei!</p>
+            </div>
+
+            <div class="row wow fadeInDown" style="padding: 50px; text-align: center">
+              <img  src="{{ 'assets/images/servicii/salino_adulti.jpg'|theme }}">
+             </div><!--/.services-->
+             
+       </div><!--/.services-->
+    </section><!--/#feature-->
+    
+";s:7:"viewBag";a:0:{}s:8:"settings";a:4:{s:5:"title";s:13:"Salina by ABC";s:3:"url";s:7:"/despre";s:6:"layout";s:7:"default";s:10:"components";a:0:{}}s:4:"code";N;s:6:"markup";s:1391:"<section id="feature" class="transparent-bg" style="padding-top: 100px">
+        <div class="container">
+           <div class="center wow fadeInDown">
+                <h2> Salina din centrul orasului</h2>
+                <p class="wall-of-text"><br>Grija noastra fata de dezvoltarea armonioasa a copiilor este principalul obiectiv la Acvatic Bebe Club. Astfel, pentru ca ne dorim ca cei mici sa aiba un stil de viata sanatos, am considerat ca este necesar sa gasim pe langa educatia acvatica, alte metode care ajuta la mentinerea unui astfel de stil de viata.<br><br>
+
+                    Asa s-a nascut ideea Salina by ABC. Pentru ca salinoterapia este un tratament cu multiple beneficii, dar o salina naturala implica un drum lung si sesiuni de tratament multiple, am decis sa aducem salina in oras, la cateva minute de centru. Am folosit sarea de la mina Praid si sare de Himalaya si am alcatuit un spatiu perfect pentru relaxare, dar si un mediu placut si plin de jucarii pentru prichindei.<br><br>
+
+
+
+Va asteptam cu drag sa descoperiti proprietatile uimitoare ale salinoterapiei!</p>
+            </div>
+
+            <div class="row wow fadeInDown" style="padding: 50px; text-align: center">
+              <img  src="{{ 'assets/images/servicii/salino_adulti.jpg'|theme }}">
+             </div><!--/.services-->
+             
+       </div><!--/.services-->
+    </section><!--/#feature-->";}";
